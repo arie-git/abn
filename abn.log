@@ -1,0 +1,511 @@
+2021-05-31 11:39:28,125 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:39:31,677 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:39:31,718 — ABN exercise — INFO — joined datasets
+2021-05-31 11:39:31,739 — ABN exercise — INFO — dropped columns
+2021-05-31 11:39:31,822 — ABN exercise — INFO — renamed columns
+2021-05-31 11:39:31,866 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:39:32,740 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:43:56,836 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:43:56,836 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:43:57,304 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:43:57,304 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:43:57,327 — ABN exercise — INFO — joined datasets
+2021-05-31 11:43:57,327 — ABN exercise — INFO — joined datasets
+2021-05-31 11:43:57,346 — ABN exercise — INFO — dropped columns
+2021-05-31 11:43:57,346 — ABN exercise — INFO — dropped columns
+2021-05-31 11:43:57,393 — ABN exercise — INFO — renamed columns
+2021-05-31 11:43:57,393 — ABN exercise — INFO — renamed columns
+2021-05-31 11:43:57,422 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:43:57,422 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:43:57,917 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:43:57,917 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:46:40,650 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:46:40,650 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:46:40,650 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:46:41,115 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:46:41,115 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:46:41,115 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:46:41,142 — ABN exercise — INFO — joined datasets
+2021-05-31 11:46:41,142 — ABN exercise — INFO — joined datasets
+2021-05-31 11:46:41,142 — ABN exercise — INFO — joined datasets
+2021-05-31 11:46:41,160 — ABN exercise — INFO — dropped columns
+2021-05-31 11:46:41,160 — ABN exercise — INFO — dropped columns
+2021-05-31 11:46:41,160 — ABN exercise — INFO — dropped columns
+2021-05-31 11:46:41,207 — ABN exercise — INFO — renamed columns
+2021-05-31 11:46:41,207 — ABN exercise — INFO — renamed columns
+2021-05-31 11:46:41,207 — ABN exercise — INFO — renamed columns
+2021-05-31 11:46:41,239 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:46:41,239 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:46:41,239 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:46:41,657 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:46:41,657 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:46:41,657 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:12,048 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:12,048 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:12,048 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:12,048 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:12,402 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:12,402 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:12,402 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:12,402 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:12,426 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:12,426 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:12,426 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:12,426 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:12,446 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:12,446 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:12,446 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:12,446 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:12,483 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:12,483 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:12,483 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:12,483 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:12,518 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:12,518 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:12,518 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:12,518 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:12,919 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:12,919 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:12,919 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:12,919 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:19,417 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:19,417 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:19,417 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:19,417 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:19,417 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:19,755 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:19,755 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:19,755 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:19,755 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:19,755 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:19,787 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:19,787 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:19,787 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:19,787 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:19,787 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:19,816 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:19,816 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:19,816 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:19,816 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:19,816 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:19,863 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:19,863 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:19,863 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:19,863 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:19,863 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:19,896 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:19,896 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:19,896 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:19,896 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:19,896 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:20,240 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:20,240 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:20,240 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:20,240 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:20,240 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:27,737 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:27,737 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:27,737 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:27,737 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:27,737 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:27,737 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:28,053 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:28,053 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:28,053 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:28,053 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:28,053 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:28,053 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:28,077 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:28,077 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:28,077 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:28,077 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:28,077 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:28,077 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:28,098 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:28,098 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:28,098 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:28,098 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:28,098 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:28,098 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:28,136 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:28,136 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:28,136 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:28,136 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:28,136 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:28,136 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:28,161 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:28,161 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:28,161 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:28,161 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:28,161 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:28,161 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:28,577 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:28,577 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:28,577 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:28,577 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:28,577 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:28,577 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:41,654 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:41,654 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:41,654 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:41,654 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:41,654 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:41,654 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:41,654 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:47:41,944 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:41,944 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:41,944 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:41,944 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:41,944 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:41,944 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:41,944 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:47:41,966 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:41,966 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:41,966 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:41,966 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:41,966 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:41,966 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:41,966 — ABN exercise — INFO — joined datasets
+2021-05-31 11:47:41,990 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:41,990 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:41,990 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:41,990 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:41,990 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:41,990 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:41,990 — ABN exercise — INFO — dropped columns
+2021-05-31 11:47:42,028 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:42,028 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:42,028 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:42,028 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:42,028 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:42,028 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:42,028 — ABN exercise — INFO — renamed columns
+2021-05-31 11:47:42,053 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:42,053 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:42,053 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:42,053 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:42,053 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:42,053 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:42,053 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 11:47:42,368 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:42,368 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:42,368 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:42,368 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:42,368 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:42,368 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:47:42,368 — ABN exercise — INFO — writing to client_data folder
+2021-05-31 11:49:19,502 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:19,502 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:19,502 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:19,502 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:19,502 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:19,502 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:19,502 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:19,502 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:19,792 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:19,792 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:19,792 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:19,792 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:19,792 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:19,792 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:19,792 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:19,792 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:19,817 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:19,817 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:19,817 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:19,817 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:19,817 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:19,817 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:19,817 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:19,817 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:19,843 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:19,843 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:19,843 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:19,843 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:19,843 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:19,843 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:19,843 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:19,843 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:19,883 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:19,883 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:19,883 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:19,883 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:19,883 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:19,883 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:19,883 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:19,883 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:55,769 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:55,769 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:55,769 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:55,769 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:55,769 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:55,769 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:55,769 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:55,769 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:55,769 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:49:56,029 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:56,029 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:56,029 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:56,029 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:56,029 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:56,029 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:56,029 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:56,029 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:56,029 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:49:56,071 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:56,071 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:56,071 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:56,071 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:56,071 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:56,071 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:56,071 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:56,071 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:56,071 — ABN exercise — INFO — joined datasets
+2021-05-31 11:49:56,104 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:56,104 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:56,104 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:56,104 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:56,104 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:56,104 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:56,104 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:56,104 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:56,104 — ABN exercise — INFO — dropped columns
+2021-05-31 11:49:56,148 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:56,148 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:56,148 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:56,148 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:56,148 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:56,148 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:56,148 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:56,148 — ABN exercise — INFO — renamed columns
+2021-05-31 11:49:56,148 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:45,551 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:45,551 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:45,551 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:45,551 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:45,551 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:45,551 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:45,551 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:45,551 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:45,551 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:45,551 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:45,830 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:45,830 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:45,830 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:45,830 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:45,830 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:45,830 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:45,830 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:45,830 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:45,830 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:45,830 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:45,862 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:45,862 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:45,862 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:45,862 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:45,862 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:45,862 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:45,862 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:45,862 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:45,862 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:45,862 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:45,889 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:45,889 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:45,889 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:45,889 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:45,889 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:45,889 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:45,889 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:45,889 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:45,889 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:45,889 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:45,924 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:45,924 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:45,924 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:45,924 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:45,924 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:45,924 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:45,924 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:45,924 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:45,924 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:45,924 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,294 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,547 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,588 — ABN exercise — INFO — joined datasets
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,614 — ABN exercise — INFO — dropped columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:50:51,649 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:31,902 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,141 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,169 — ABN exercise — INFO — joined datasets
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,198 — ABN exercise — INFO — dropped columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:51:32,239 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,185 — ABN exercise — INFO — started Spark Session
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,423 — ABN exercise — INFO — loaded datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,467 — ABN exercise — INFO — joined datasets
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,500 — ABN exercise — INFO — dropped columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns
+2021-05-31 11:52:22,539 — ABN exercise — INFO — renamed columns

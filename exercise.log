@@ -1,0 +1,7 @@
+2021-05-31 10:58:05,171 — ABN exercise — INFO — started Spark Session
+2021-05-31 10:58:05,428 — ABN exercise — INFO — loaded datasets
+2021-05-31 10:58:05,459 — ABN exercise — INFO — joined datasets
+2021-05-31 10:58:05,490 — ABN exercise — INFO — dropped columns
+2021-05-31 10:58:05,536 — ABN exercise — INFO — renamed columns
+2021-05-31 10:58:05,585 — ABN exercise — INFO — filtered data by specified countries
+2021-05-31 10:58:05,880 — ABN exercise — INFO — writing to client_data folder
