@@ -12,11 +12,6 @@ import sys
 from logging.handlers import TimedRotatingFileHandler
 import configparser
 
-#config file that contains parameters such as dataset and countries to filter on
-#config = configparser.ConfigParser()
-#config.read('config.ini')
-
-#logging formatting and filename
 
 
 #arguments to rename and drop columns 
@@ -43,14 +38,13 @@ def main():
     
     
     renameddata=renameColumns(droppeddata,newColumns)
-    #renameddata.show(5)
+    
     logger.info("renamed columns")
     
-    #get list from config ini
-    #filterlist=config['filters']['countries'].split(',')
+
     
     filtereddata=filterCountry(renameddata, list_countries)
-    #config['filters']['countries'].split(';')
+
     logger.info("filtered data by specified countries")
     
     filtereddata.write.csv('client_data',header='true', mode='overwrite')
