@@ -26,22 +26,30 @@ list_countries=['United Kingdom','Netherlands']
 #logging args
 
 def main():
+
     logger = get_logger("ABN exercise")
+    
+    #create spark session
     spark = create_session()
     
+    #load datasets (extract)
     df1 = spark.read.csv("inputdata/dataset_one.csv",header=True)
     df2 = spark.read.csv("inputdata/dataset_two.csv",header=True)
     
     logger.info("loaded datasets")
     
+   
+    #join datasets on id field
     data = df1.join(df2,'id')
     logger.info("joined datasets")
 
+    #transformations 
     
+    #drop specified columns
     droppeddata = data.drop(*columns_to_drop)
     logger.info("dropped columns")
     
-    
+    #rename columns
     renameddata=renameColumns(droppeddata,newColumns)
     #renameddata.show(5)
     logger.info("renamed columns")
@@ -49,10 +57,12 @@ def main():
     #get list from config ini
     #filterlist=config['filters']['countries'].split(',')
     
+    #filter dataset on specified countries
     filtereddata=filterCountry(renameddata, list_countries)
     #config['filters']['countries'].split(';')
     logger.info("filtered data by specified countries")
     
+    #write to csv (load)
     filtereddata.write.csv('client_data',header='true', mode='overwrite')
     
     logger.info("writing to client_data folder")    
